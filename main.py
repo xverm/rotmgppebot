@@ -74,7 +74,6 @@ from utils.memory_hygiene import run_memory_hygiene
 from utils.autocomplete import class_autocomplete, item_name_autocomplete, bonus_autocomplete, user_bonus_autocomplete, target_user_bonus_autocomplete, team_name_autocomplete, rarity_autocomplete
 
 SERVER1_ID = 1514246572127551488 # Last Oasis
-
 guilds = [discord.Object(id=SERVER1_ID)]
 
 load_dotenv()
